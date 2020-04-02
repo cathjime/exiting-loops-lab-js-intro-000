@@ -16,10 +16,10 @@ function keepGoing(array, changeValue, skipValue){
     } else {
         array[i] = changeValue;
     }
-    return array;
   }
+  return array;
 }
 
 function findBy(array, findFn){
-  
+
 }
